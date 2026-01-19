@@ -34,7 +34,7 @@ It helps users add, view, and manage daily tasks efficiently.
 
 1. Download or clone the repository  
    ```bash
-   git clone
+   git clone https://github.com/nehalgaherwar/todo-list.git
 2.Open the project folder
 
 3.Double-click index.html
