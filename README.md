@@ -11,11 +11,21 @@ It helps users add, view, and manage daily tasks efficiently.
 - Lightweight and fast
 - Beginner-friendly project
 
+--------
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the app  
 - **CSS3** – Styling and layout  
 - **JavaScript** – Functionality and interactivity  
 
+-------
+
 ## 📂 Project Structure
 
+├── index.html                                                                        
+├── styles.css                                                                              
+├── script.js                                                                    
+└── README.md                                                
+
+------
